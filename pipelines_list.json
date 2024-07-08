@@ -10,7 +10,19 @@
     "repo": "https://github.com/dawud0358/springbootjava-app-ci-cd.git",
     "branch": "main",
     "jenkinsfile": "ansible/Jenkinsfile"
-    }
+    },
+    {
+      "name": "terraform-pipeline",
+      "repo": "https://github.com/dawud0358/springbootjava-app-ci-cd.git",
+      "branch": "main",
+      "jenkinsfile": "terraform/Jenkinsfile"
+      },
+      {
+        "name": "ansible-pipeline",
+        "repo": "https://github.com/dawud0358/springbootjava-app-ci-cd.git",
+        "branch": "main",
+        "jenkinsfile": "ansible/Jenkinsfile"
+        }
 ]
   
 
