@@ -22,7 +22,13 @@
         "repo": "https://github.com/dawud0358/springbootjava-app-ci-cd.git",
         "branch": "main",
         "jenkinsfile": "ansible/Jenkinsfile"
-        }
+        },
+        {
+          "name": "continuous-integration-pipeline",
+          "repo": "https://github.com/dawud0358/springbootjava-app-ci-cd.git",
+          "branch": "main",
+          "jenkinsfile": "continuous-integration/Jenkinsfile"
+          }
 ]
   
 
