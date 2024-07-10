@@ -34,6 +34,12 @@
             "repo": "https://github.com/dawud0358/springbootjava-app-ci-cd.git",
             "branch": "main",
             "jenkinsfile": "continuous-integration-continuous-delivery/Jenkinsfile"
+          },
+          {
+            "name": "continuous-deployment-pipeline",
+            "repo": "https://github.com/dawud0358/springbootjava-app-ci-cd.git",
+            "branch": "main",
+            "jenkinsfile": "continuous-deployment/Jenkinsfile"
           }
 ]
   
