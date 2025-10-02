@@ -31,6 +31,7 @@ Languages: Python | Bash | Go
 Monitoring & Security: Prometheus | Grafana | ELK | Falco | Trivy | AWS Security Hub 
 Version Control: Git | GitHub | GitLab
 
+
 ## 📌 Current Interests
 - Strengthening: Devsecops,cloud security, Cyber threats and attacks.   
 - Enhancing: Kubernetes security,Network security. .  
@@ -39,7 +40,7 @@ Version Control: Git | GitHub | GitLab
 
 ### 📬 Let’s Connect
 - 🌐 https://www.linkedin.com/in/dawuda-issifu?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaRA5CnJPQhWFsPH0eCgrzg%3D%3D  
-- 🐙   
+- 🐙 https://github.com/dawud0358/springbootjava-app-ci-cd/blob/main/README.md  
 - 📧 dawud0358@gmail.com  
 
 
